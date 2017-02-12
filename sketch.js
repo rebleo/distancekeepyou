@@ -1,7 +1,7 @@
 var theMedium;
 
 function preload(){
-	theMedium = loadImage('data/distancekeepyou.jpg');
+	theMedium = loadImage('data/distanceKeepYou.jpg');
 }
 
 function setup(){
